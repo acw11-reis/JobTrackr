@@ -1,0 +1,5 @@
+{
+  "name": "CareerFlow AI",
+  "description": "A smart job application tracker powered by Gemini to help you organize, track, and prepare for your interviews.",
+  "requestFramePermissions": []
+}
